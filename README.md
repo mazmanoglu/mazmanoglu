@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ASP.NET MVC
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Selenium Testing
 - 📫 Reach me via fatihozer246@gmail.com
 
 <!---
