@@ -1,12 +1,12 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
 <h1 align="center">Hi 👋, I'm Fatih Ozer</h1>
 <h3 align="center">A passionate .Net developer in Belgium</h3>
+- 🌱 I’m currently learning **Selenium Testing**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazmanoglu&label=Profile%20views&color=0e75b6&style=flat" alt="mazmanoglu" /> </p>
 
-- 🌱 I’m currently learning **Selenium Testing**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
