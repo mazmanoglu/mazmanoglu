@@ -1,5 +1,4 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1 align="center">Hi 👋, I'm Fatih Ozer</h1>
 <h3 align="center">A passionate .Net developer in Belgium</h3>
 
