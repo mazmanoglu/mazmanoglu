@@ -1,4 +1,3 @@
-<img align="left" width="500" src="https://itonlinecourse1.com/wp-content/uploads/2021/05/netdevelopers-scaled-1.jpg">
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1 align="center">Hi 👋, I'm Fatih Ozer</h1>
