@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
-<h1>Hi 👋, I'm Fatih Ozer</h1>
+<h1>Hello, hello, hello 👋, This is Fatih Ozer</h1>
 <h3>A passionate .Net developer lives in Belgium.</h3>
 🌱 Currently living in Automation Testing world
 
